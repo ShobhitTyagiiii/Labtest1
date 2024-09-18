@@ -1,0 +1,7 @@
+import numpy as np
+import mplot pyplot as plt
+from scipy.signal
+def generate aqi_data():
+    np.random.seed()
+    def smooth_aqi_data(aq_readings)
+  def average_aqi(aq_readings):
